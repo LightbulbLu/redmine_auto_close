@@ -1,0 +1,7 @@
+{
+    "require": {
+        "kbsali/redmine-api": "^1.5",
+        "symfony/yaml": "^3.2",
+        "symfony/console": "^3.2"    
+    }
+}

@@ -1,0 +1,9 @@
+redmine:
+    url: https://redmine.example.com/
+    api_key: 
+    resolved_id: 3
+    closed_id: 5
+
+project_ids: []
+date_limit: 1 month ago
+close_message: Closing this issue due to inactivity.
